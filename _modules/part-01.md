@@ -4,14 +4,14 @@ title: Вступ
 
 
 
-15 лют 
+10 лют 
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/details.pdf)] 
 
 : **Лекція 1**{: .label .label-green } **Вступ до глибокого навчання**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture1.pdf)] 
 
-22 лют
+<!-- 22 лют
 : **Лекція 2**{: .label .label-green } **Багатошаровий перцептрон**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)] 
 
@@ -58,7 +58,7 @@ title: Вступ
 
 10 тра
 : **Лекція 8**{: .label .label-green } **Рекурентні нейронні мережі**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture8.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture8.pdf)] 
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture8.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture8.pdf)]  -->
 
 <!--  23 кві
 #### Очікується -->
