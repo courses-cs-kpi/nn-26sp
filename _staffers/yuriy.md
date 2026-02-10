@@ -7,7 +7,7 @@ photo: ykochura.jpg
 pronouns: лекції/практики
 department: обчислювальної техніки
 lectures: онлайн
-site: http://roz.kpi.ua/
+site: https://schedule.kpi.ua/
 ---
 
 [BBB кімната](https://bbb.comsys.kpi.ua/rooms/yur-tz7-pbk-xb9/join){: .btn .btn-outline }
