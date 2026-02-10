@@ -28,6 +28,7 @@ nav_order: 1
 Підручники
 : 1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Нейронні мережі*](https://github.com/dml-book/dml/releases/download/v0.1.10/0.1.10-final.pdf).
 1. Simon J.D. Prince (2024). [*Understanding Deep Learning*](https://udlbook.github.io/udlbook/). (UDL)
+1. Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2023). [*Dive into deep learning*](https://d2l.ai/). Cambridge University Press.
 
 
 
