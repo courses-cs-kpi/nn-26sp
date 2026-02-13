@@ -10,4 +10,4 @@ lectures: онлайн
 site: https://schedule.kpi.ua/
 ---
 
-[BBB кімната](https://bbb.comsys.kpi.ua/rooms/yur-tz7-pbk-xb9/join){: .btn .btn-outline }
+[BBB кімната](https://bbb.comsys.kpi.ua/rooms/yur-tz7-pbk-xb9/join){: .btn .btn-outline } [BBB резерв](https://bbb.ugrid.org/b/yur-tz7-pbk-xb9){: .btn .btn-outline }
