@@ -9,7 +9,11 @@ title: Вступ
   : [[HML](https://ykochura.github.io/nn-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/details.pdf)] 
 
 : **Лекція 1**{: .label .label-green } **Вступ до глибокого навчання**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture1.pdf)] 
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture1.pdf)]
+
+14 лют 
+: **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
+  : [[Словник термінів](https://storage.thedigital.gov.ua/files/2/72/389a01ab0cc82040dfe172f94d1af720.pdf)]
 
 <!-- 22 лют
 : **Лекція 2**{: .label .label-green } **Багатошаровий перцептрон**
