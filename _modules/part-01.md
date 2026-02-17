@@ -4,7 +4,7 @@ title: Вступ
 
 
 
-10 лют 
+10-17 лют 
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/details.pdf)] 
 
@@ -15,10 +15,11 @@ title: Вступ
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[Словник термінів](https://storage.thedigital.gov.ua/files/2/72/389a01ab0cc82040dfe172f94d1af720.pdf)]
 
-<!-- 22 лют
+ 17 лют
 : **Лекція 2**{: .label .label-green } **Багатошаровий перцептрон**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)] 
 
+<!--
 : **ПР #1**{: .label .label-purple} **Багатошаровий перцептрон**
   : [[Деталі](https://drive.google.com/file/d/1-zZHUrpuI4j90sBnBe2tAd9Mc5-N87UC/view?usp=sharing)]
     : **Дедлайн**:  08 березня
