@@ -15,9 +15,9 @@ title: Вступ
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[Словник термінів](https://storage.thedigital.gov.ua/files/2/72/389a01ab0cc82040dfe172f94d1af720.pdf)]
 
- 17 лют
+24 лют
 : **Лекція 2**{: .label .label-green } **Багатошаровий перцептрон**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)] 
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)] [[ВІДЕО](https://youtu.be/Ih_xfOIlOao)]
 
 <!--
 : **ПР #1**{: .label .label-purple} **Багатошаровий перцептрон**
