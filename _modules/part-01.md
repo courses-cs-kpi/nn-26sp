@@ -19,12 +19,12 @@ title: Вступ
 : **Лекція 2**{: .label .label-green } **Багатошаровий перцептрон**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)] [[ВІДЕО](https://youtu.be/Ih_xfOIlOao)]
 
-<!--
+28 лют
 : **ПР #1**{: .label .label-purple} **Багатошаровий перцептрон**
-  : [[Деталі](https://drive.google.com/file/d/1-zZHUrpuI4j90sBnBe2tAd9Mc5-N87UC/view?usp=sharing)]
-    : **Дедлайн**:  08 березня
+  : [[Деталі](https://ykochura.github.io/nn-kpi/labs/lab1-nn.pdf)]
+    : **Дедлайн**:  13 березня
 
-
+<!--
 01 бер
 : **Лекція 3**{: .label .label-green } **Автоматичне диференціювання**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture3.pdf)] [[ВІДЕО](https://youtu.be/o986TK1W6jg)]
