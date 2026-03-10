@@ -32,12 +32,12 @@ title: Вступ
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[ВІДЕО1](https://www.youtube.com/watch?v=wG_nF1awSSY)] [[ВІДЕО2](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule/v/multivariable-chain-rule)] <br> [[backprop](https://www.youtube.com/watch?v=Ilg3gGewQ5U)]  [[calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)]
 
-<!--
-08 бер
+
+10 бер
 : **Лекція 4**{: .label .label-green } **Навчання нейронних мереж**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture4.pdf)]
 
-
+<!--
 15-22 бер
 : **Лекція 5**{: .label .label-green } **Згорткові мережі**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture5.pdf)] 
