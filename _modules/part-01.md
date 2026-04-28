@@ -55,6 +55,11 @@ title: Вступ
 : **Лекція 7**{: .label .label-green } **Комп'ютерний зір ІІ**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture7.pdf)]  
 
+28 кві
+: **Проєкт**{: .label .label-purple} **Автоматичне виявлення орiєнтирiв при кранiофацiальних синдромах**
+  : [[Деталі](https://drive.google.com/drive/folders/1-t2lfQHpw4Qm9AEGTNZkG9c56gOygDzi?usp=sharing)]
+    : **Дедлайн**: 18 травня
+
 <!--19 кві-3 трав
 : **Лекція 7**{: .label .label-green } **Комп'ютерний зір ІІ**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture7.pdf)] 
