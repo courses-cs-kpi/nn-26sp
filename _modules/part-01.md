@@ -64,6 +64,10 @@ title: Вступ
 : **Лекція 8**{: .label .label-green } **Рекурентні нейронні мережі**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture8.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture8.pdf)] 
 
+12 тра
+: **Лекція 9**{: .label .label-green } **Невизначеність**
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture9.md#1)]
+
 <!--19 кві-3 трав
 : **Лекція 7**{: .label .label-green } **Комп'ютерний зір ІІ**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture7.pdf)] 
